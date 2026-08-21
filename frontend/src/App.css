@@ -1,0 +1,24 @@
+#root {
+  min-height: 100vh;
+}
+
+@keyframes softPulse {
+  0%,
+  100% {
+    opacity: 0.45;
+  }
+
+  50% {
+    opacity: 0.9;
+  }
+}
+
+.animate-soft-pulse {
+  animation: softPulse 2s ease-in-out infinite;
+}
+
+@media (max-width: 640px) {
+  body {
+    overflow-x: hidden;
+  }
+}
