@@ -4,6 +4,13 @@
 
 Upload an audio recording and get a transcript, meeting summary, important decisions, and actionable tasks in one place.
 
+
+## 🎥 Demo Video
+
+Watch the complete MeetMind AI demonstration:
+
+👉 [Watch Demo Video on Google Drive](https://drive.google.com/file/d/17OcXqe5CWm6mCkYYKAv8CmST1C7cJUil/view?usp=sharing)
+
 ## Highlights
 
 * Audio recording upload
